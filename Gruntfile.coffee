@@ -24,6 +24,7 @@ module.exports = (grunt) ->
     exec:
       print: 'decktape -s 1024x768 reveal "http://localhost:9000/" static/<%= pkg.shortname %>.pdf; true'
       thumbnail: 'decktape -s 1024x768 --screenshots --screenshots-directory . --slides 1 reveal "http://localhost:9000/" static/img/thumbnail.jpg; true'
+      inline: 'inliner http://localhost:9000/ > inline.html'
 
     copy:
       index:
@@ -38,7 +39,7 @@ module.exports = (grunt) ->
           src: [
             'static/**'
             'index.html'
-            '<%= pkg.shortname %>.html'
+            'inline.html'
             'CNAME'
             '.nojekyll'
           ]
@@ -80,13 +81,6 @@ module.exports = (grunt) ->
   require('load-grunt-tasks')(grunt)
   grunt.loadNpmTasks('grunt-git')
 
-  grunt.registerTask 'inline',
-    'Inline all assets into HTML', ->
-      Inliner = require 'inliner'
-      new Inliner 'http://localhost:9000/', (err, html) ->
-        console.error err
-        grunt.file.write grunt.config('pkg.shortname') + '.html', html
-
   grunt.registerTask 'serve',
     'Run presentation locally', [
       'copy:index'
@@ -107,7 +101,7 @@ module.exports = (grunt) ->
     ]
 
   grunt.registerTask 'pdf',
-    'Render a **PDF** copy of the presentation (using PhantomJS)', [
+    'Render a **PDF** copy of the presentation (using decktape)', [
       'serve'
       'exec:print'
       'exec:thumbnail'
@@ -117,7 +111,7 @@ module.exports = (grunt) ->
     '*Test* rendering to PDF', [
       'coffeelint'
       'pdf'
-      'inline'
+      'exec:inline'
     ]
 
   grunt.registerTask 'dist',
