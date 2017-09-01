@@ -98,3 +98,12 @@ And his disciples **believed** in him.
 2. Point **Two**
 3. Point **Three**
 
+>>>
+communion
++ eating + drinking Mt11:19
++ Mary prob helping
++ changed rl w/mom
++ cf to Mary on cross Jn19:26
++ expect miracle
++ what have I to do with you: c.f. Mt8:29 Gadarenes. in role as son: obedient; in role as Saviour: Lord
++ not yet time: first cleanse temple. Yet willing, but in private (not even master knew)
