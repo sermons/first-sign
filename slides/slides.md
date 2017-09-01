@@ -18,6 +18,8 @@ and the mother of Jesus was there.
 Jesus also was invited to the wedding <br/>
 with his disciples.
 
+[John 2:1-2 (ESV) (p.1/6)](# "ref")
+
 ---
 [3](# "ref")
 When the wine ran out,<br/>
@@ -33,6 +35,8 @@ My hour has not yet come.”
 His mother said to the servants,<br/>
 “Do whatever he tells you.”
 
+[John 2:3-5 (ESV) (p.2/6)](# "ref")
+
 ---
 [6](# "ref")
 Now there were six stone water jars there<br/>
@@ -45,6 +49,8 @@ Jesus said to the servants, <br/>
 
 And they filled them up to the brim.
 
+[John 2:6-7 (ESV) (p.3/6)](# "ref")
+
 ---
 [8](# "ref")
 And he said to them, “Now draw some out <br/>
@@ -53,11 +59,13 @@ So they took it.
 
 [9](# "ref")
 When the master of the feast <br/>
-tasted the water now become wine,
+tasted the water now become wine, <br/>
+and did not know where it came from
 
-and did not know where it came from <br/>
 (though the servants <br/>
 who had drawn the water knew),
+
+[John 2:8-9 (ESV) (p.4/6)](# "ref")
 
 ---
 the master of the feast <br/>
@@ -67,8 +75,11 @@ and said to him,
 
 “Everyone serves the good wine first,<br/>
 and when people have drunk freely, <br/>
-then the poor wine.<br/>
+then the poor wine.
+
 But you have kept the good wine until now.”
+
+[John 2:9-10 (ESV) (p.5/6)](# "ref")
 
 ---
 [11](# "ref")
@@ -78,6 +89,7 @@ and manifested his glory.
 
 And his disciples believed in him.
 
+[John 2:11 (ESV) (p.6/6)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" -->
