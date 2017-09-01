@@ -108,3 +108,4 @@ communion
 + what have I to do with you: c.f. Mt8:29 Gadarenes. in role as son: obedient; in role as Saviour: Lord
 + not yet time: first cleanse temple. Yet willing, but in private (not even master knew)
 + [jars](https://www.biblicalarchaeology.org/daily/ancient-cultures/daily-life-and-practice/jewish-purification-stone-vessel-workshop-galilee/)
++ 2nd sign in Galilee: 4:54 after next Passover
