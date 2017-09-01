@@ -21,7 +21,8 @@ with his disciples.
 ---
 [3](# "ref")
 When the wine ran out,<br/>
-the mother of Jesus said to him, “They have no wine.”
+the mother of Jesus said to him, <br/>
+“They have no wine.”
 
 [4](# "ref")
 And Jesus said to her, <br/>
@@ -39,31 +40,42 @@ for the Jewish rites of purification,<br/>
 each holding twenty or thirty gallons.
 
 [7](# "ref")
-Jesus said to the servants, “Fill the jars with water.”<br/>
+Jesus said to the servants, <br/>
+“Fill the jars with water.”
+
 And they filled them up to the brim.
 
+---
 [8](# "ref")
 And he said to them, “Now draw some out <br/>
 and take it to the master of the feast.” <br/>
 So they took it.
 
----
 [9](# "ref")
 When the master of the feast <br/>
-tasted the water now become wine, <br/>
-and did not know where it came from <br/>
-(though the servants who had drawn the water knew),
+tasted the water now become wine,
 
-the master of the feast called the bridegroom<br/>
+and did not know where it came from <br/>
+(though the servants <br/>
+who had drawn the water knew),
+
+---
+the master of the feast <br/>
+called the bridegroom
 [10](# "ref")
-and said to him, “Everyone serves the good wine first,<br/>
-and when people have drunk freely, then the poor wine.<br/>
+and said to him,
+
+“Everyone serves the good wine first,<br/>
+and when people have drunk freely, <br/>
+then the poor wine.<br/>
 But you have kept the good wine until now.”
 
 ---
 [11](# "ref")
 This, the first of his signs, <br/>
-Jesus did at Cana in Galilee, and manifested his glory.<br/>
+Jesus did at Cana in Galilee, <br/>
+and manifested his glory.
+
 And his disciples believed in him.
 
 
