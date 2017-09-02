@@ -98,6 +98,14 @@ And his disciples **believed** in him.
 2. My **Hour** Has Not Yet Come [(v4)](# "ref")
 3. Revealed His **Glory** [(v11)](# "ref")
 
+>>>
++ changed **relationship** w/Mary
+  + Son of **Man** + Son of **God**
++ own **timing**: call **discip**, cleanse **temple**
+  + our **prayers** vs God's **purpose**
++ love/eager to show **mercy**
+  + widow vs unrighteous judge
+
 ---
 <!-- .slide: data-background="white" -->
 # Q1
