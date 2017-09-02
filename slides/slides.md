@@ -4,7 +4,7 @@
 
 ---
 <!-- .slide: data-background="white" -->
-# Opening **Question**
+# How has Christ shown His **glory** in my life?
 
 [###](#/outline "secret")
 
