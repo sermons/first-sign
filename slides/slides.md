@@ -94,9 +94,9 @@ And his disciples **believed** in him.
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" -->
 ## The First Sign [(John 2)](# "ref")
-1. Point **One**
-2. Point **Two**
-3. Point **Three**
+1. What To **You** and **Me**? [(v4)](# "ref")
+2. My **Hour** Has Not Yet Come [(v4)](# "ref")
+3. Revealed His **Glory** [(v11)](# "ref")
 
 >>>
 communion
