@@ -1,4 +1,4 @@
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> data-state="title" -->
+<!-- .slide: <%= bg("unsplash-x8MZ2MoEKLE-stump-shoot.jpg") %> -->
 # The First Sign <br/> of His Glory
 ## John 2:1-11
 
@@ -92,11 +92,33 @@ And his disciples **believed** in him.
 [John 2:11 (ESV) (p.6/6)](# "ref")
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" -->
+<!-- .slide: <%= bg("unsplash-x8MZ2MoEKLE-stump-shoot.jpg") %> id="outline" -->
 ## The First Sign [(John 2)](# "ref")
 1. What To **You** and **Me**? [(v4)](# "ref")
 2. My **Hour** Has Not Yet Come [(v4)](# "ref")
 3. Revealed His **Glory** [(v11)](# "ref")
+
+---
+<!-- .slide: data-background="white" -->
+# Q1
+
+---
+## outline
+
+---
+<!-- .slide: data-background="white" -->
+# Q2
+
+---
+## outline
+
+---
+<!-- .slide: data-background="white" -->
+# Q3
+
+---
+<!-- .slide: <%= bg("unsplash-x8MZ2MoEKLE-stump-shoot.jpg") %> -->
+## closing
 
 >>>
 communion
@@ -109,3 +131,6 @@ communion
 + not yet time: first cleanse temple. Yet willing, but in private (not even master knew)
 + [jars](https://www.biblicalarchaeology.org/daily/ancient-cultures/daily-life-and-practice/jewish-purification-stone-vessel-workshop-galilee/)
 + 2nd sign in Galilee: 4:54 after next Passover
+
+---
+<!-- .slide: <%= bg("unsplash-x8MZ2MoEKLE-stump-shoot.jpg") %> class="empty" -->
