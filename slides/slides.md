@@ -195,28 +195,53 @@ The **mother** of Jesus said to him, <br/>
 >>>
 + not a **demand** or even **request**
 + gentle **reminder** of a tangible, immediate **need**
+  + perhaps a **nudge** to get Jesus going
   + **small** miracle, amongst **family**
   + good place for Jesus to get **started**
++ what was Jesus' **response**?
 
 ---
-And Jesus said to her, <br/>
-“**Woman**, what does this **have to do** with me?
+Jesus saith unto her, <br/>
+**Woman**, what have **I** to do with **thee**?
 
-[John 2:4 (ESV)](# "ref")
+[John 2:4 (KJV)](# "ref")
 
 >>>
 + **woman**: not disrespectful
   + cf to Mary on **cross** (Jn19:26)
-  + but not **mother**
-+ **to do**: what is there to you and to me?
-  +
+  + but not **mother**: changed **rl**
++ **I** / **thee**: Hebrew idiom
+  + NIV: why do you **involve** me?
+  + ESV: what does **this** have to do with me?
++ but: not about **request**, but **relationship**
+  + (Mt8:29 Gadarenes **demoniacs**)
+  + (Josh15:18 **Caleb's** daughter ask for springs)
+  + not doesn't **care** about wedding
+  + not necc **harsh** or irritated
++ what is the **nature** of our relationship now?
+  + e.g., dating: "**DTR**"
+  + in what capacity are you **addressing** me?
+  + a mother's **command**, or a daughter's **petition**?
+  + from mother to **daughter**
+  + from son to **Saviour**
 
 ---
 <!-- .slide: data-background="white" -->
-# Do I view Jesus as a **good man** or as the **Son of God**?
+# In my prayers, <br/> what is my **relationship** with Jesus?
+
+>>>
++ **impatient** for God to show His **power**?
++ remember God's **promises** but don't see them **fulfilled**?
+  + perhaps God needs a **reminder** / nudge?
++ in what **capacity** do I **address** Him?
+  + master's **command**, or servant's **plea**?
 
 ---
 ## outline
+
+>>>
++ Re: revealing His **glory**:
+  + own **timetable**, own **strategy** (pt2)
 
 ---
 <!-- .slide: data-background="white" -->
@@ -235,7 +260,6 @@ And Jesus said to her, <br/>
 
 >>>
 communion
-+ what have I to do with you: c.f. Mt8:29 Gadarenes. in role as son: obedient; in role as Saviour: Lord
 + not yet time: first cleanse temple. Yet willing, but in private (not even master knew)
 + [jars](https://www.biblicalarchaeology.org/daily/ancient-cultures/daily-life-and-practice/jewish-purification-stone-vessel-workshop-galilee/)
 + 2nd sign in Galilee: 4:54 after next Passover
