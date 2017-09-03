@@ -264,6 +264,8 @@ My **hour** has not yet come.”
 >>>
 + baptized &rArr; tempted &rArr; call discip
 + first **public** appearance: cleanse temple (1st Passover)
+  + in **Jerusalem** first
+  + Galilee: prophet w/o honour
 + for you, any time is right
 
 ---
