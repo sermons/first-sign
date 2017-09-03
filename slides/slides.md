@@ -352,10 +352,62 @@ His mother said to the **servants**,<br/>
 
 >>>
 + clear that Jesus will take **action**
-+ [jars](https://www.biblicalarchaeology.org/daily/ancient-cultures/daily-life-and-practice/jewish-purification-stone-vessel-workshop-galilee/)
++ despite not being Jesus' **method** for glory
+  + nor His **timing** or **location**
++ miracle done in **private**
+  + not even **master** of ceremonies knew
 + desire to show **mercy**
-+ e.g., persistent widow Lk18
-+ done in **private** (not even master of ceremonies knew)
+  + **character** of God:
+  + Lk18 unrighteous **judge**:
+
+______
++ [(Archeology finds stone jars)](https://www.biblicalarchaeology.org/daily/ancient-cultures/daily-life-and-practice/jewish-purification-stone-vessel-workshop-galilee/)
+
+---
+"Though I neither fear **God** nor respect **man**,
+
+[5](# "ref")
+yet because this widow keeps **bothering** me, <br/>
+I will give her **justice**,
+
+so that she will not beat me down <br/>
+by her **continual** coming."
+
+[Luke 18:4-5 (ESV) (p.1/2)](# "ref")
+
+>>>
++ if even an **unjust** judge
+  + is willing to give **justice**
++ what about our loving, **just** Father?
+
+---
+Hear what the **unrighteous** judge says.
+
+[7](# "ref")
+And will not God give **justice** <br/>
+to his **elect**, who **cry** to him day and night?
+
+Will he **delay** long over them?
+
+[Luke 18:6-7 (ESV) (p.2/2)](# "ref")
+
+>>>
++ God **desires** to have mercy upon us
++ He does not **leave** us to **suffer** in sin
+  + or **wander** searching for His will
+
+---
+When he saw the crowds, <br/>
+he had **compassion** for them, <br/>
+because they were harassed and **helpless**, <br/>
+like **sheep** without a shepherd.
+
+[Matthew 9:36 (ESV)](# "ref")
+
+>>>
++ **compassion**: bowels, deeply moved
++ 37 harvest plentiful, workers few
+  + **invites** us to participate in compassion
 
 ---
 This, the **first** of his signs, <br/>
@@ -372,17 +424,6 @@ And his disciples **believed** in him.
   + but **mercy** toward His daughter's **plea**
 
 ---
-When he saw the crowds, <br/>
-he had **compassion** for them, <br/>
-because they were harassed and **helpless**, <br/>
-like **sheep** without a shepherd.
-
-[Matthew 9:36 (ESV)](# "ref")
-
->>>
-+ 37 harvest plentiful, workers few
-
----
 He has told you, O man, what is **good**; <br/>
 and what does the Lord **require** of you
 
@@ -396,7 +437,7 @@ and to walk **humbly** with your God?
 
 ---
 <!-- .slide: data-background="white" -->
-# Do I **desire** to show **mercy** to others?
+# Am I **eager** to show **mercy** to others?
 
 >>>
 + even when not according to my **plan**?
