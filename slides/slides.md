@@ -412,6 +412,7 @@ ______
 + [(Archeology finds stone jars)](https://www.biblicalarchaeology.org/daily/ancient-cultures/daily-life-and-practice/jewish-purification-stone-vessel-workshop-galilee/)
 
 ---
+<!-- .slide: <%= bg("unsplash-8CwoHpZe3qE-hands.jpg") %> -->
 "Though I neither fear **God** nor respect **man**,
 
 [5](# "ref")
@@ -429,6 +430,7 @@ by her **continual** coming."
 + what about our loving, **just** Father?
 
 ---
+<!-- .slide: <%= bg("unsplash-8CwoHpZe3qE-hands.jpg") %> -->
 Hear what the **unrighteous** judge says.
 
 [7](# "ref")
@@ -447,6 +449,7 @@ Will he **delay** long over them?
   + or **wander** searching for His will
 
 ---
+<!-- .slide: <%= bg("unsplash-aJvSX36kweg-lamb.jpg") %> -->
 When he saw the crowds, <br/>
 he had **compassion** for them, <br/>
 because they were harassed and **helpless**, <br/>
@@ -463,6 +466,7 @@ like **sheep** without a shepherd.
   + hurricane Harvey (TX)
 
 ---
+<!-- .slide: <%= bg("unsplash-e6XsI7qqvAA-forest_sunbeam.jpg") %> -->
 This, the **first** of his signs, <br/>
 Jesus did at Cana in Galilee, <br/>
 and manifested his **glory**.
@@ -477,6 +481,7 @@ And his disciples **believed** in him.
   + but **mercy** toward His daughter's **plea**
 
 ---
+<!-- .slide: <%= bg("unsplash-H3giJcTw__w-iceland_sunbeam.jpg") %> -->
 He has told you, O man, what is **good**; <br/>
 and what does the Lord **require** of you
 
