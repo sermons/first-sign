@@ -9,7 +9,12 @@
 [###](#/outline "secret")
 
 >>>
-+ intimate portrait of **mother** + **son**
++ John introduces Jesus via **personal** encounters:
+  + ch1: John Baptist, disciples
+  + ch2: w/Mary
+  + ch3: w/Nicodemus
+  + ch4: w/Samaritan woman @Sychar
++ today: intimate portrait of **mother** + **son**
 
 ---
 [1](# "ref")
@@ -96,10 +101,10 @@ And his disciples **believed** in him.
 
 ---
 <!-- .slide: <%= bg("unsplash-x8MZ2MoEKLE-stump-shoot.jpg") %> id="outline" -->
-## The First Sign of Glory [(John 2)](# "ref")
-1. What To **You** and **Me**? [(v4)](# "ref")
-2. My **Hour** Has Not Yet Come [(v4)](# "ref")
-3. Revealed His **Glory** [(v11)](# "ref")
+## The First Sign of Glory <br/> [(John 2)](# "ref")
+1. What Have **I** To Do With **You**?
+2. My **Hour** Has Not Yet Come
+3. Revealed His **Glory**
 
 >>>
 + changed **relationship** w/Mary
@@ -250,16 +255,41 @@ My **hour** has not yet come.”
 
 [John 2:4 (ESV)](# "ref")
 
+>>>
++ baptized &rArr; tempted &rArr; call discip
++ first **public** appearance: cleanse temple (1st Passover)
+
 ---
 <!-- .slide: data-background="white" -->
-# Q2
+# How do I **respond** when I have to **wait** for God?
+
+>>>
++ God's **timetable**
++ wait upon the Lord: trust, humility
 
 ---
 ## outline
 
 ---
+His mother said to the **servants**,<br/>
+“**Do** whatever he tells you.”
+
+[John 2:5 (ESV)](# "ref")
+
+>>>
++ clear that Jesus will take **action**
++ desire to show **mercy**
++ e.g., sheep w/o shepherd, had compassion
++ e.g., persistent widow Lk18
++ e.g., Mic6:8 love mercy
++ done in **private** (not even master of ceremonies knew)
+
+---
 <!-- .slide: data-background="white" -->
-# Q3
+# Do I **desire** to show **mercy** to others?
+
+>>>
++ even when not according to my **plan**?
 
 ---
 <!-- .slide: <%= bg("unsplash-x8MZ2MoEKLE-stump-shoot.jpg") %> -->
@@ -267,7 +297,6 @@ My **hour** has not yet come.”
 
 >>>
 communion
-+ not yet time: first cleanse temple. Yet willing, but in private (not even master knew)
 + [jars](https://www.biblicalarchaeology.org/daily/ancient-cultures/daily-life-and-practice/jewish-purification-stone-vessel-workshop-galilee/)
 + 2nd sign in Galilee: 4:54 after next Passover
 
