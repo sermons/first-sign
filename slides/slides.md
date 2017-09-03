@@ -4,14 +4,14 @@
 
 ---
 <!-- .slide: data-background="white" -->
-# What is the **path** to **glory**?
+# What is the <br/> **path** to glory?
 
 >>>
 + how do we obtain **glory**?
 + what path did **Jesus** follow on earth?
 
 ---
-### John: Encountering the **Heart** of Christ
+## John: Encountering <br/> the **Heart** of Christ
 + [(ch1)](# "ref") **John** the Baptist, early **disciples**
 + [(ch2)](# "ref") with **Mary** his mother
 + [(ch3)](# "ref") with **Nicodemus** the leader
@@ -116,9 +116,7 @@ And his disciples **believed** in him.
 >>>
 + changed **relationship** w/Mary
   + from **mother** to **daughter**
-  + Son of **Man** + Son of **God**
-+ own **timing**: call **discip**, cleanse **temple**
-  + our **prayers** vs God's **purpose**
++ own **timing**, **path** to glory
 + love/eager to show **mercy**
 
 ---
@@ -130,14 +128,15 @@ and the **mother** of Jesus was there.
 
 [John 2:1 (ESV)](# "ref")
 
-[(img &copy; 2007 James Emery, CC-BY 2.0)](https://www.flickr.com/photos/emeryjl/507797526/ "caption")
+[(img: Sea of Galilee, &copy; 2007 James Emery, CC-BY 2.0)](https://www.flickr.com/photos/emeryjl/507797526/ "caption")
 
 >>>
-+ Cana: likely **Khirbet Kana**, 13km NW of Nazareth
++ Cana: likely **Khirbet Kana**
+  + 13km NW of **Nazareth** (close)
   + Jesus: **adult**, own journeys to Jeru
-  + Galilee-Jeru common (2-3 days on foot)
+  + Galilee-Jeru common (2-3 days)
 + **Mary**: stayed in Galilee
-  + poss Nazareth, poss **Capernaum** (v12)
+  + poss Naz or **Capernaum**: v12
   + **Joseph**: not mentioned, poss dead
 + **wedding**: Jesus willing to attend
   + cf **John** not eating (Mt11:18-19)
@@ -157,12 +156,12 @@ the **mother** of Jesus said to him, <br/>
   + wine for celebration, **ceremony**
   + need a **lot** of wine!
 + Mary prob **helper**, poss **relative**
-  + felt **responsible** for success of wedding
+  + felt **resp** for success wed
 + Jesus **guest**, not helper
   + not asking him to **buy** more wine
 + Mary expects a **miracle**
   + but Jesus had **not yet** done any
-  + until now, Jesus had been obedient **son**:
+  + until now, obedient **son**:
 
 ---
 <!-- .slide: <%= bg("Hofmann-Jesus_in_Temple.jpg") %> -->
@@ -177,9 +176,10 @@ in her heart.
 [(img: Hofmann, "Der zwölfjährige Jesus im Tempel", 1884)](# "caption")
 
 >>>
-+ 12yrs old at **temple**: "my Father's house"
++ 12yrs old at **temple**:
+  + "my **Father's** house"
 + Mary **treasured** up in heart
-  + anticipated Jesus' **glory** since birth:
+  + anticipated **glory** since birth:
 
 ---
 <!-- .slide: <%= bg("Murillo-Annunciation.jpg") %> -->
@@ -215,7 +215,7 @@ The **mother** of Jesus said to him, <br/>
 >>>
 + not a **demand** or even **request**
 + gentle **reminder** of a tangible, immediate **need**
-  + perhaps a **nudge** to get Jesus going
+  + **nudge** to get Jesus going
   + start **flourishing** amongst **family**
 + what was Jesus' **response**?
 
@@ -234,13 +234,13 @@ Jesus saith unto her, <br/>
   + but not **mother**: changed **rl**
 + **I** / **thee**: Hebrew idiom
   + NIV: why do you **involve** me?
-  + ESV: what does **this** have to do with me?
-+ but: not about **request**, but **relationship**
+  + ESV: what does **this** have w/me?
++ not about **request**, but **rl**
   + (Mt8:29 Gadarenes **demoniacs**)
-  + (Josh15:18 **Caleb's** daughter ask for springs)
+  + (Jo15:18 **Caleb's** daughter ask)
   + not doesn't **care** about wedding
   + not necc **harsh** or irritated
-+ what is the **nature** of our relationship now?
++ what is the **nature** of our rl now?
   + e.g., dating: "**DTR**"
   + in what capacity are you **addressing** me?
   + a mother's **command**, or a daughter's **petition**?
@@ -259,6 +259,7 @@ the **way** in which they should go.
 <%= bible('ex13:17-22', '(cf Ex13)') %>
 
 >>>
++ growing up in Chr home
 + pillar of fire as **nightlight**:
 + take His **blessings** for granted
 + forgot His **majesty**
@@ -269,10 +270,12 @@ the **way** in which they should go.
 
 >>>
 + **impatient** for God to show His **power**?
-+ remember God's **promises** but don't see them **fulfilled**?
-  + perhaps God needs a **reminder** / nudge?
++ remember God's **promises**
+  + but don't see them **fulfilled**?
+  + God needs **reminder** / nudge?
 + in what **capacity** do I **address** Him?
-  + master's **command**, or servant's **plea**?
+  + master's **command**
+  + or servant's **plea**?
 
 ---
 <!-- .slide: <%= bg("unsplash-H3giJcTw__w-iceland_sunbeam.jpg") %> -->
@@ -299,7 +302,8 @@ And Jesus said to her, <br/>
 >>>
 + what was Jesus' **plan**?
   + baptized &rArr; tempted &rArr; call discip
-+ first **public** appearance: cleanse **temple**:
++ first **public** appearance:
+  + cleanse **temple**:
 
 ---
 <!-- .slide: <%= bg("Mei-Christ_Cleansing_the_Temple.jpg") %> -->
@@ -340,13 +344,14 @@ but **your** time is always here."
 [John 7:4,6 (ESV)](# "ref")
 
 >>>
-+ well-meaning: want Jesus to **succeed**:
-  + flourish, show **strength**, seize glory
-+ e.g., pastor **boast** SS kids in Ivy League uni
++ well-meaning: want his **success**:
+  + flourish, show **power**, take glory
++ e.g., pastor **boast** SS kids Ivy League
   + what is defn of **success**?
 + v5 brothers didn't **believe**
-+ **my time** vs your time: what to you and me?
-  + v7 world **hates** bc testify works evil
++ **my time** vs your time:
+  + what to you and me?
+  + 7 world **hates**: testify works evil
 
 ---
 <!-- .slide: <%= bg("flickr-freefoto-2552357124.jpg") %> -->
@@ -389,6 +394,15 @@ by taking the form of a **servant**
 2. My Hour Has Not Yet Come
 3. **Glory in Showing Mercy**
 
+>>>
++ check self: how I **view** / address Him?
++ Jesus' **path** to glory:
+  + not by **seizing** it for self
+  + **submitting** to God's plan
++ even in **midst** of following God's plan:
+  + desire to show **mercy**
+  + bc of beloved's **plea**
+
 ---
 <!-- .slide: <%= bg("Gandolfi-Marriage_Cana.jpg") %> -->
 His mother said to the **servants**,<br/>
@@ -400,10 +414,10 @@ His mother said to the **servants**,<br/>
 
 >>>
 + clear that Jesus will take **action**
-+ despite not being Jesus' **method** for glory
++ despite not Jesus' **method** for glory
   + nor His **timing** or **location**
 + miracle done in **private**
-  + not even **master** of ceremonies knew
+  + even **master** of ceremonies
 + desire to show **mercy**
   + **character** of God:
   + Lk18 unrighteous **judge**:
@@ -461,9 +475,11 @@ like **sheep** without a shepherd.
 + **compassion**: bowels, deeply moved
 + 37 harvest plentiful, workers few
   + **invites** us to participate in compassion
-+ e.g., **5min** bball w/SS teens, even when tired
-+ e.g., **share** w/those in need, even when short
++ e.g., **5min** bball w/SS teens
+  + even when **tired**
++ e.g., **share** w/those in need
   + hurricane Harvey (TX)
+  + even when don't have much
 
 ---
 <!-- .slide: <%= bg("unsplash-e6XsI7qqvAA-forest_sunbeam.jpg") %> -->
@@ -476,9 +492,10 @@ And his disciples **believed** in him.
 [John 2:11 (ESV)](# "ref")
 
 >>>
-+ 2nd sign in Galilee: 4:54 after next Passover
++ **2nd** sign in Galilee after Passover:
+  + Jn4:54 Cana / Capernaum
 + **glory**: not just **power** to make wine
-  + but **mercy** toward His daughter's **plea**
+  + **mercy** to His daughter's **plea**
 
 ---
 <!-- .slide: <%= bg("unsplash-H3giJcTw__w-iceland_sunbeam.jpg") %> -->
@@ -492,7 +509,8 @@ and to walk **humbly** with your God?
 
 >>>
 + God has been **merciful** to us:
-+ **communion**: Christ's **obedience** to Father
++ **communion**: Christ's
+  + **obedience** to Father
   + **sacrifice** for our sins
   + **mercy** in forgiving us
 + now our turn to have **mercy** on others:
@@ -503,6 +521,8 @@ and to walk **humbly** with your God?
 
 >>>
 + even when not according to my **plan**?
++ He who has been **forgiven** much,
+  + **loves** much (Lk7:47)
 
 ---
 <!-- .slide: <%= bg("unsplash-H3giJcTw__w-iceland_sunbeam.jpg") %> -->
@@ -521,6 +541,7 @@ and to walk **humbly** with your God?
   + or to **submit**, let God exalt?
 + am I **eager** to show **mercy**
   + even when not my **plan** / timing?
+  + bc **God's** great mercy to me?
 
 ---
 <!-- .slide: <%= bg("unsplash-H3giJcTw__w-iceland_sunbeam.jpg") %> class="empty" -->
