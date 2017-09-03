@@ -10,12 +10,13 @@
 + achieve **success**
   + **make** sth of lives
   + leave lasting **legacy**
-+ **many** paths to glory? 
-  + **hard work**, determination? 
-  + **chance** happenstance? 
++ **many** paths to glory?
+  + **hard work**, determination?
+  + **chance** happenstance?
 + what path did **Jesus** follow on earth?
 
 ---
+<!-- .slide: <%= bg("Bida-Nicodemus_Jesus.jpg") %> -->
 ## John: Encountering <br/> the **Heart** of Christ
 + [(ch1)](# "ref") **John** the Baptist, early **disciples**
 + [(ch2)](# "ref") with **Mary** his mother
@@ -24,9 +25,13 @@
 
 [###](#/outline "secret")
 
+[(img: Bida, "Nicodemus and Jesus", 1874)](https://commons.wikimedia.org/wiki/File:Nicodemus_Jesus.jpg "caption")
+
 >>>
-+ John intros Jesus via **personal** encounters
-+ today: intimate portrait of **mother** + **son**
++ gospel of John: introduces Jesus
+  + via **personal** encounters
++ today: intimate portrait
+  + of **mother** + **son**
 
 ---
 [1](# "ref")
