@@ -141,10 +141,11 @@ and the **mother** of Jesus was there.
 [(img: Sea of Galilee, &copy; 2007 James Emery, CC-BY 2.0)](https://www.flickr.com/photos/emeryjl/507797526/ "caption")
 
 >>>
-+ Cana: likely **Khirbet Kana**
-  + 13km NW of **Nazareth** (close)
-  + Jesus: **adult**, own journeys to Jeru
-  + Galilee-Jeru common (2-3 days)
++ Jesus **grew up** in Galilee
+  + often to **Jeru** (2-3 days)
+  + now **adult**, call 1st **discip**
++ Cana: likely **Khirbet Kana** (ruins)
+  + close to **Nazareth** (13km NW)
 + **Mary**: stayed in Galilee
   + poss Naz or **Capernaum**: v12
   + **Joseph**: not mentioned, poss dead
@@ -165,11 +166,12 @@ the **mother** of Jesus said to him, <br/>
 + Jewish weddings: **7-8 days**
   + wine for celebration, **ceremony**
   + need a **lot** of wine!
-+ Mary prob **helper**, poss **relative**
++ Mary: prob **helper**, poss **relative**
   + felt **resp** for success wed
-+ Jesus **guest**, not helper
++ Jesus: **guest**, not helper
   + not asking him to **buy** more wine
-+ Mary expects a **miracle**
++ what was **Mary** thinking?
+  + expecting a **miracle**
   + but Jesus had **not yet** done any
   + until now, obedient **son**:
 
@@ -187,9 +189,11 @@ in her heart.
 
 >>>
 + 12yrs old at **temple**:
-  + "my **Father's** house"
+  + returned **home**, **obedient**
 + Mary **treasured** up in heart
-  + anticipated **glory** since birth:
+  + Jesus: "my **Father's** house"
++ mother anticipated **glory** of son
+  + since **before** birth:
 
 ---
 <!-- .slide: <%= bg("Murillo-Annunciation.jpg") %> -->
@@ -224,8 +228,9 @@ The **mother** of Jesus said to him, <br/>
 
 >>>
 + not a **demand** or even **request**
-+ gentle **reminder** of a tangible, immediate **need**
-  + **nudge** to get Jesus going
++ gentle **reminder**:
+  + tangible, immediate **need**
++ perhaps **nudge** to get Jesus going
   + start **flourishing** amongst **family**
 + what was Jesus' **response**?
 
@@ -242,18 +247,20 @@ Jesus saith unto her, <br/>
 + **woman**: not disrespectful
   + cf to Mary on **cross** (Jn19:26)
   + but not **mother**: changed **rl**
-+ **I** / **thee**: Hebrew idiom
++ KJV: **I** / **thee**:
   + NIV: why do you **involve** me?
   + ESV: what does **this** have w/me?
-+ not about **request**, but **rl**
-  + (Mt8:29 Gadarenes **demoniacs**)
-  + (Jo15:18 **Caleb's** daughter ask)
++ Hebrew **idiom**: what to me and to you?
+  + (Mt8:29) Gadarenes **demoniacs**
+  + (Jo15:18) **Caleb** daughter springs
++ not about **request**, but **relation**
   + not doesn't **care** about wedding
   + not necc **harsh** or irritated
 + what is the **nature** of our rl now?
   + e.g., dating: "**DTR**"
-  + in what capacity are you **addressing** me?
-  + a mother's **command**, or a daughter's **petition**?
++ in what capacity are you **addressing** me?
+  + a mother's **command**
+    + or a daughter's **petition**?
   + from mother to **daughter**
   + from son to **Saviour**
 
@@ -286,6 +293,7 @@ the **way** in which they should go.
 + in what **capacity** do I **address** Him?
   + master's **command**
   + or servant's **plea**?
++ what to me and to you?
 
 ---
 <!-- .slide: <%= bg("unsplash-H3giJcTw__w-iceland_sunbeam.jpg") %> -->
@@ -313,7 +321,7 @@ And Jesus said to her, <br/>
 + what was Jesus' **plan**?
   + baptized &rArr; tempted &rArr; call discip
 + first **public** appearance:
-  + cleanse **temple**:
+  + cleanse **temple**, ch2b:
 
 ---
 <!-- .slide: <%= bg("Mei-Christ_Cleansing_the_Temple.jpg") %> -->
@@ -332,7 +340,8 @@ His disciples **remembered** that it was written, <br/>
   + prophet w/o **honour**
 + (2) not act of **miraculous** power:
   + not seeking **fame**, gain glory
-  + personal **encounters** (Nicodemus, Sychar woman)
+  + personal **encounters**
+    + Nicodemus, Sychar woman
   + forbade healed from **telling** others
   + but **authority** over Father's house
 + (3) demonstrate true **family**:
