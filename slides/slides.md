@@ -308,6 +308,8 @@ but **your** time is always here."
 >>>
 + well-meaning: want Jesus to **succeed**:
   + flourish, show **strength**, seize glory
++ e.g., pastor **boast** SS kids in Ivy League uni
+  + what is defn of **success**?
 + v5 brothers didn't **believe**
 + **my time** vs your time: what to you and me?
   + v7 world **hates** bc testify works evil
