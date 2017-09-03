@@ -249,8 +249,10 @@ Jesus saith unto her, <br/>
 ## outline
 
 >>>
-+ Re: revealing His **glory**:
-  + own **timetable**, own **strategy** (pt2)
++ as Mary's **son**, obedient
++ as Mary's **Saviour**:
+  + own **timetable**, own **strategy**
+  + own way of revealing His **glory**
 
 ---
 And Jesus said to her, <br/>
@@ -302,19 +304,42 @@ but **your** time is always here."
 [John 7:4,6 (ESV)](# "ref")
 
 >>>
-+ wanted Jesus to **succeed**:
++ well-meaning: want Jesus to **succeed**:
   + flourish, show **strength**, seize glory
 + v5 brothers didn't **believe**
 + **my time** vs your time: what to you and me?
   + v7 world **hates** bc testify works evil
 
 ---
+Have this **mind** among yourselves, <br/>
+which is yours in Christ **Jesus**,
+
+[6](# "ref")
+who, though he was in the **form** of God, <br/>
+did not count **equality** with God <br/>
+a thing to be **grasped**,
+
+[7](# "ref")
+but **emptied** himself, <br/>
+by taking the form of a **servant**
+
+[Philippians 2:5-7 (ESV)](# "ref")
+
+>>>
++ **grasp**: seize, prize, spoil of war / force
++ **equality** w/God: take God's **glory**
++ **servant**: obedient to God's **plan**
++ v9 then **God** exalted him
+
+---
 <!-- .slide: data-background="white" -->
-# How do I **respond** when I have to **wait** for God?
+# Do I seek to be **known** by men,
+# or to **submit** to God?
 
 >>>
 + God's **timetable**
 + wait upon the Lord: trust, humility
++ humble thyself in the sight of the Lord
 
 ---
 ## outline
