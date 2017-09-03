@@ -8,6 +8,9 @@
 
 [###](#/outline "secret")
 
+>>>
++ intimate portrait of **mother** + **son**
+
 ---
 [1](# "ref")
 On the third day there was a **wedding** <br/>
@@ -93,13 +96,14 @@ And his disciples **believed** in him.
 
 ---
 <!-- .slide: <%= bg("unsplash-x8MZ2MoEKLE-stump-shoot.jpg") %> id="outline" -->
-## The First Sign [(John 2)](# "ref")
+## The First Sign of Glory [(John 2)](# "ref")
 1. What To **You** and **Me**? [(v4)](# "ref")
 2. My **Hour** Has Not Yet Come [(v4)](# "ref")
 3. Revealed His **Glory** [(v11)](# "ref")
 
 >>>
 + changed **relationship** w/Mary
+  + from **mother** to **daughter**
   + Son of **Man** + Son of **God**
 + own **timing**: call **discip**, cleanse **temple**
   + our **prayers** vs God's **purpose**
@@ -107,8 +111,106 @@ And his disciples **believed** in him.
   + widow vs unrighteous judge
 
 ---
+On the third day there was a **wedding** <br/>
+at **Cana** in Galilee,
+
+and the **mother** of Jesus was there.
+
+[John 2:1 (ESV)](# "ref")
+
+>>>
++ Cana: likely **Khirbet Kana**, 13km NW of Nazareth
+  + Jesus: **adult**, own journeys to Jeru
+  + Galilee-Jeru common (2-3 days on foot)
++ **Mary**: stayed in Galilee
+  + poss Nazareth, poss **Capernaum** (v12)
+  + **Joseph**: not mentioned, poss dead
++ **wedding**: Jesus willing to attend
+  + cf **John** not eating (Mt11:18-19)
+
+---
+When the **wine** ran out,<br/>
+the **mother** of Jesus said to him, <br/>
+“They have **no wine**.”
+
+[John 2:3 (ESV)](# "ref")
+
+>>>
++ Jewish weddings: **7-8 days**
+  + wine for celebration, **ceremony**
+  + need a **lot** of wine!
++ Mary prob **helper**, poss **relative**
+  + felt **responsible** for success of wedding
++ Jesus **guest**, not helper
+  + not asking him to **buy** more wine
++ Mary expects a **miracle**
+  + but Jesus had **not yet** done any
+  + until now, Jesus had been obedient **son**:
+
+---
+Then he went down to **Nazareth** with them <br/>
+and was **obedient** to them.
+
+But his mother **treasured** all these things <br/>
+in her heart.
+
+[Luke 2:51 (NIV)](# "ref")
+
+>>>
++ 12yrs old at **temple**: "my Father's house"
++ Mary **treasured** up in heart
+  + anticipated Jesus' **glory** since birth:
+
+---
+Behold, you will **conceive** in your womb<br/>
+and bear a **son**, <br/>
+and you shall call his name **Jesus**.
+
+[32](# "ref")
+He will be **great** and will be called <br/>
+the Son of the **Most High**.
+
+[Luke 1:31-32 (ESV)](# "ref")
+
+>>>
++ what would His **greatness** look like?
+  + mother's **hope** for her firstborn
+  + perhaps **impatient** to see His fullest **potential**
++ now: heard of Jesus' recent **baptism**
+  + **temptation**, call first few **discip**
+  + would **now** be the time?
+
+---
+<!-- .slide: <%= bg("flickr-gromgull-3375802661-wine_spill.jpg") %> -->
+The **mother** of Jesus said to him, <br/>
+“They have **no wine**.”
+
+[John 2:3 (ESV)](# "ref")
+
+[img &copy; 2009 Gunnar Grimnes, CC-BY 2.0](https://www.flickr.com/photos/gromgull/3375802661/ "caption")
+
+>>>
++ not a **demand** or even **request**
++ gentle **reminder** of a tangible, immediate **need**
+  + **small** miracle, amongst **family**
+  + good place for Jesus to get **started**
+
+---
+And Jesus said to her, <br/>
+“**Woman**, what does this **have to do** with me?
+
+[John 2:4 (ESV)](# "ref")
+
+>>>
++ **woman**: not disrespectful
+  + cf to Mary on **cross** (Jn19:26)
+  + but not **mother**
++ **to do**: what is there to you and to me?
+  +
+
+---
 <!-- .slide: data-background="white" -->
-# Q1
+# Do I view Jesus as a **good man** or as the **Son of God**?
 
 ---
 ## outline
@@ -130,11 +232,6 @@ And his disciples **believed** in him.
 
 >>>
 communion
-+ eating + drinking Mt11:19
-+ Mary prob helping
-+ changed rl w/mom
-+ cf to Mary on cross Jn19:26
-+ expect miracle
 + what have I to do with you: c.f. Mt8:29 Gadarenes. in role as son: obedient; in role as Saviour: Lord
 + not yet time: first cleanse temple. Yet willing, but in private (not even master knew)
 + [jars](https://www.biblicalarchaeology.org/daily/ancient-cultures/daily-life-and-practice/jewish-purification-stone-vessel-workshop-galilee/)
