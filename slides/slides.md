@@ -7,7 +7,12 @@
 # What is the <br/> **path** to glory?
 
 >>>
-+ how do we obtain **glory**?
++ achieve **success**
+  + **make** sth of lives
+  + leave lasting **legacy**
++ **many** paths to glory? 
+  + **hard work**, determination? 
+  + **chance** happenstance? 
 + what path did **Jesus** follow on earth?
 
 ---
