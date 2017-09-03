@@ -168,6 +168,7 @@ in her heart.
 + 12yrs old at **temple**: "my Father's house"
 + Mary **treasured** up in heart
   + anticipated Jesus' **glory** since birth:
++ TODO: possibly trim this
 
 ---
 Behold, you will **conceive** in your womb<br/>
@@ -231,6 +232,11 @@ Jesus saith unto her, <br/>
   + from son to **Saviour**
 
 ---
+>>>
++ pillar of fire as nightlight: take for granted
+  forgot His majesty
+
+---
 <!-- .slide: data-background="white" -->
 # In my prayers, <br/> what is my **relationship** with Jesus?
 
@@ -258,6 +264,7 @@ My **hour** has not yet come.”
 >>>
 + baptized &rArr; tempted &rArr; call discip
 + first **public** appearance: cleanse temple (1st Passover)
++ for you, any time is right
 
 ---
 <!-- .slide: <%= bg("unsplash-OjE4RtaibFc-eagle.jpg") %> -->
