@@ -260,6 +260,17 @@ My **hour** has not yet come.”
 + first **public** appearance: cleanse temple (1st Passover)
 
 ---
+<!-- .slide: <%= bg("unsplash-OjE4RtaibFc-eagle.jpg") %> -->
+They who **wait** for the Lord <br/>
+shall **renew** their strength; <br/>
+they shall mount up with **wings** like eagles
+
+[Isaiah 40:31 (ESV)](# "ref")
+
+>>>
++ wait: hope, eager expectation
+
+---
 <!-- .slide: data-background="white" -->
 # How do I **respond** when I have to **wait** for God?
 
@@ -279,10 +290,27 @@ His mother said to the **servants**,<br/>
 >>>
 + clear that Jesus will take **action**
 + desire to show **mercy**
-+ e.g., sheep w/o shepherd, had compassion
 + e.g., persistent widow Lk18
-+ e.g., Mic6:8 love mercy
 + done in **private** (not even master of ceremonies knew)
+
+---
+When he saw the crowds, he had **compassion** for them, <br/>
+because they were harassed and **helpless**, <br/>
+like **sheep** without a shepherd.
+
+[Matthew 9:36 (ESV)](# "ref")
+
+>>>
++ 37 harvest plentiful, workers few
+
+---
+He has told you, O man, what is **good**; <br/>
+and what does the Lord **require** of you
+
+but to do **justice**, and to love **kindness**, <br/>
+and to walk **humbly** with your God?
+
+[Micah 6:8 (ESV)](# "ref")
 
 ---
 <!-- .slide: data-background="white" -->
