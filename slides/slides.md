@@ -202,8 +202,7 @@ The **mother** of Jesus said to him, <br/>
 + not a **demand** or even **request**
 + gentle **reminder** of a tangible, immediate **need**
   + perhaps a **nudge** to get Jesus going
-  + **small** miracle, amongst **family**
-  + good place for Jesus to get **started**
+  + start **flourishing** amongst **family**
 + what was Jesus' **response**?
 
 ---
@@ -256,15 +255,42 @@ Jesus saith unto her, <br/>
 
 ---
 And Jesus said to her, <br/>
-“Woman, what does this **have to do** with me?<br/>
-My **hour** has not yet come.”
+“Woman, what does this have to do with me?
+
+**My hour** has **not yet** come.”
 
 [John 2:4 (ESV)](# "ref")
 
 >>>
-+ baptized &rArr; tempted &rArr; call discip
-+ first **public** appearance: cleanse temple (1st Passover)
-+ for you, any time is right
++ what was Jesus' **plan**?
+  + baptized &rArr; tempted &rArr; call discip
++ first **public** appearance: cleanse **temple**
+  + not **miraculous** power, but
+  + **authority** over Father's house
++ more: his **hour** was not to seek **fame**
+  + personal **encounters** (Nicodemus, Sychar woman)
+  + forbade healed from **telling** others
++ Even own **brothers** didn't understand:
+
+---
+[4](# "ref")
+"No one works in **secret** <br/>
+if he seeks to be **known** openly. <br/>
+If you do these things, <br/>
+**show yourself** to the world."
+
+[6](# "ref")
+Jesus said to them, “**My time** has not yet come, <br/>
+but **your** time is always here."
+
+[John 7:4,6 (ESV)](# "ref")
+
+>>>
++ v5 brothers didn't **believe**
++ wanted Jesus to **succeed**:
+  + flourish, show **strength**, fame
++ **my time** vs your time: what to you and me?
+  + v7 world **hates** bc testify works evil
 
 ---
 <!-- .slide: <%= bg("unsplash-OjE4RtaibFc-eagle.jpg") %> -->
