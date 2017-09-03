@@ -309,7 +309,8 @@ And his disciples **believed** in him.
   + but **mercy** toward His daughter's **plea**
 
 ---
-When he saw the crowds, he had **compassion** for them, <br/>
+When he saw the crowds, <br/>
+he had **compassion** for them, <br/>
 because they were harassed and **helpless**, <br/>
 like **sheep** without a shepherd.
 
