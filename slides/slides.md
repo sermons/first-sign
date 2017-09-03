@@ -104,7 +104,7 @@ And his disciples **believed** in him.
 ## The First Sign of Glory <br/> [(John 2)](# "ref")
 1. What Have **I** To Do With **You**?
 2. My **Hour** Has Not Yet Come
-3. Revealed His **Glory**
+3. Revealing His **Glory**
 
 >>>
 + changed **relationship** w/Mary
@@ -289,9 +289,24 @@ His mother said to the **servants**,<br/>
 
 >>>
 + clear that Jesus will take **action**
++ [jars](https://www.biblicalarchaeology.org/daily/ancient-cultures/daily-life-and-practice/jewish-purification-stone-vessel-workshop-galilee/)
 + desire to show **mercy**
 + e.g., persistent widow Lk18
 + done in **private** (not even master of ceremonies knew)
+
+---
+This, the **first** of his signs, <br/>
+Jesus did at Cana in Galilee, <br/>
+and manifested his **glory**.
+
+And his disciples **believed** in him.
+
+[John 2:11 (ESV)](# "ref")
+
+>>>
++ 2nd sign in Galilee: 4:54 after next Passover
++ **glory**: not just **power** to make wine
+  + but **mercy** toward His daughter's **plea**
 
 ---
 When he saw the crowds, he had **compassion** for them, <br/>
@@ -325,8 +340,6 @@ and to walk **humbly** with your God?
 
 >>>
 communion
-+ [jars](https://www.biblicalarchaeology.org/daily/ancient-cultures/daily-life-and-practice/jewish-purification-stone-vessel-workshop-galilee/)
-+ 2nd sign in Galilee: 4:54 after next Passover
 
 ---
 <!-- .slide: <%= bg("unsplash-x8MZ2MoEKLE-stump-shoot.jpg") %> class="empty" -->
