@@ -129,11 +129,14 @@ and the **mother** of Jesus was there.
   + cf **John** not eating (Mt11:18-19)
 
 ---
+<!-- .slide: <%= bg("flickr-gromgull-3375802661-wine_spill.jpg") %> -->
 When the **wine** ran out,<br/>
 the **mother** of Jesus said to him, <br/>
 “They have **no wine**.”
 
 [John 2:3 (ESV)](# "ref")
+
+[img &copy; 2009 Gunnar Grimnes, CC-BY 2.0](https://www.flickr.com/photos/gromgull/3375802661/ "caption")
 
 >>>
 + Jewish weddings: **7-8 days**
