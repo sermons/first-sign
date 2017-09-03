@@ -4,16 +4,23 @@
 
 ---
 <!-- .slide: data-background="white" -->
-# How has Christ shown His **glory** in my life?
+# What is the **path** to **glory**?
+
+>>>
++ how do we obtain **glory**?
++ what path did **Jesus** follow on earth?
+
+---
+### John: Encountering the **Heart** of Christ
++ [(ch1)](# "ref") **John** the Baptist, early **disciples**
++ [(ch2)](# "ref") with **Mary** his mother
++ [(ch3)](# "ref") with **Nicodemus** the leader
++ [(ch4)](# "ref") with the outcast woman at **Sychar**
 
 [###](#/outline "secret")
 
 >>>
-+ John introduces Jesus via **personal** encounters:
-  + ch1: John Baptist, disciples
-  + ch2: w/Mary
-  + ch3: w/Nicodemus
-  + ch4: w/Samaritan woman @Sychar
++ John intros Jesus via **personal** encounters
 + today: intimate portrait of **mother** + **son**
 
 ---
