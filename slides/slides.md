@@ -244,6 +244,13 @@ Jesus saith unto her, <br/>
   + own **timetable**, own **strategy** (pt2)
 
 ---
+And Jesus said to her, <br/>
+“Woman, what does this **have to do** with me?<br/>
+My **hour** has not yet come.”
+
+[John 2:4 (ESV)](# "ref")
+
+---
 <!-- .slide: data-background="white" -->
 # Q2
 
