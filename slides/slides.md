@@ -113,15 +113,17 @@ And his disciples **believed** in him.
 + own **timing**: call **discip**, cleanse **temple**
   + our **prayers** vs God's **purpose**
 + love/eager to show **mercy**
-  + widow vs unrighteous judge
 
 ---
+<!-- .slide: <%= bg("flickr-emeryjl-507797526.jpg") %> -->
 On the third day there was a **wedding** <br/>
 at **Cana** in Galilee,
 
 and the **mother** of Jesus was there.
 
 [John 2:1 (ESV)](# "ref")
+
+[(img &copy; 2007 James Emery, CC-BY 2.0)](https://www.flickr.com/photos/emeryjl/507797526/ "caption")
 
 >>>
 + Cana: likely **Khirbet Kana**, 13km NW of Nazareth
@@ -141,7 +143,7 @@ the **mother** of Jesus said to him, <br/>
 
 [John 2:3 (ESV)](# "ref")
 
-[img &copy; 2009 Gunnar Grimnes, CC-BY 2.0](https://www.flickr.com/photos/gromgull/3375802661/ "caption")
+[(img &copy; 2009 Gunnar Grimnes, CC-BY 2.0)](https://www.flickr.com/photos/gromgull/3375802661/ "caption")
 
 >>>
 + Jewish weddings: **7-8 days**
@@ -156,6 +158,7 @@ the **mother** of Jesus said to him, <br/>
   + until now, Jesus had been obedient **son**:
 
 ---
+<!-- .slide: <%= bg("Hofmann-Jesus_in_Temple.jpg") %> -->
 Then he went down to **Nazareth** with them <br/>
 and was **obedient** to them.
 
@@ -164,12 +167,15 @@ in her heart.
 
 [Luke 2:51 (NIV)](# "ref")
 
+[(img: Hofmann, "Der zwölfjährige Jesus im Tempel", 1884)](# "caption")
+
 >>>
 + 12yrs old at **temple**: "my Father's house"
 + Mary **treasured** up in heart
   + anticipated Jesus' **glory** since birth:
 
 ---
+<!-- .slide: <%= bg("Murillo-Annunciation.jpg") %> -->
 Behold, you will **conceive** in your womb<br/>
 and bear a **son**, <br/>
 and you shall call his name **Jesus**.
@@ -179,6 +185,8 @@ He will be **great** and will be called <br/>
 the Son of the **Most High**.
 
 [Luke 1:31-32 (ESV)](# "ref")
+
+[(img: Murillo, "The Annunciation", 1660)](https://commons.wikimedia.org/wiki/File:Bartolom%C3%A9_Esteban_Perez_Murillo_023.jpg "caption")
 
 >>>
 + what would His **greatness** look like?
@@ -195,7 +203,7 @@ The **mother** of Jesus said to him, <br/>
 
 [John 2:3 (ESV)](# "ref")
 
-[img &copy; 2009 Gunnar Grimnes, CC-BY 2.0](https://www.flickr.com/photos/gromgull/3375802661/ "caption")
+[(img &copy; 2009 Gunnar Grimnes, CC-BY 2.0)](https://www.flickr.com/photos/gromgull/3375802661/ "caption")
 
 >>>
 + not a **demand** or even **request**
@@ -205,10 +213,13 @@ The **mother** of Jesus said to him, <br/>
 + what was Jesus' **response**?
 
 ---
+<!-- .slide: <%= bg("Sarrabat-Wedding_Cana.jpg") %> -->
 Jesus saith unto her, <br/>
 **Woman**, what have **I** to do with **thee**?
 
 [John 2:4 (KJV)](# "ref")
+
+[(img: Daniel Sarrabat, "The Wedding at Cana)](# "caption")
 
 >>>
 + **woman**: not disrespectful
@@ -230,6 +241,7 @@ Jesus saith unto her, <br/>
   + from son to **Saviour**
 
 ---
+<!-- .slide: <%= bg("unsplash-C2a4RGapd8s-light_paint_circle_fire.jpg") %> -->
 By a pillar of **cloud** you led them in the day,<br/>
 and by a pillar of **fire** in the night
 
@@ -238,6 +250,7 @@ the **way** in which they should go.
 
 [Nehemiah 9:12 (ESV)](# "ref")
 <%= bible('ex13:17-22', '(cf Ex13)') %>
+
 >>>
 + pillar of fire as **nightlight**:
 + take His **blessings** for granted
@@ -358,10 +371,13 @@ by taking the form of a **servant**
 ## outline
 
 ---
+<!-- .slide: <%= bg("Gandolfi-Marriage_Cana.jpg") %> -->
 His mother said to the **servants**,<br/>
 “**Do** whatever he tells you.”
 
 [John 2:5 (ESV)](# "ref")
+
+[(img: Gaetano Gandolfi, "The Marriage at Cana", 1766)](http://art.thewalters.org/detail/29388 "caption")
 
 >>>
 + clear that Jesus will take **action**
