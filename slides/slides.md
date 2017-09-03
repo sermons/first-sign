@@ -264,13 +264,28 @@ And Jesus said to her, <br/>
 >>>
 + what was Jesus' **plan**?
   + baptized &rArr; tempted &rArr; call discip
-+ first **public** appearance: cleanse **temple**
-  + not **miraculous** power, but
++ first **public** appearance: cleanse **temple**:
+
+---
+<!-- .slide: <%= bg("Mei-Christ_Cleansing_the_Temple.jpg") %> -->
+“Take these things away; <br/>
+do not make **my Father's** house a house of **trade**.”
+
+[17](# "ref")
+His disciples **remembered** that it was written, <br/>
+“**Zeal** for your house will **consume** me.”
+
+[John 2:16-17 (ESV)](# "ref")
+
+>>>
++ not **miraculous** power, but
   + **authority** over Father's house
++ in **Jerusalem**, not **Galilee** / Cana
+  + prophet w/o **honour**
 + more: his **hour** was not to seek **fame**
   + personal **encounters** (Nicodemus, Sychar woman)
   + forbade healed from **telling** others
-+ Even own **brothers** didn't understand:
++ own **family** didn't understand:
 
 ---
 [4](# "ref")
