@@ -288,6 +288,7 @@ the **way** in which they should go.
   + own way of revealing His **glory**
 
 ---
+<!-- .slide: <%= bg("unsplash-UIUgYu9bENU-dark_pocketwatch.jpg") %> -->
 And Jesus said to her, <br/>
 “Woman, what does this have to do with me?
 
@@ -325,7 +326,7 @@ His disciples **remembered** that it was written, <br/>
   + natural family didn't **understand**:
 
 ---
-[4](# "ref")
+<!-- .slide: <%= bg("unsplash-Wa-gS5R58gA-group_silhouette.jpg") %> -->
 "No one works in **secret** <br/>
 if he seeks to be **known** openly. <br/>
 If you do these things, <br/>
@@ -348,6 +349,7 @@ but **your** time is always here."
   + v7 world **hates** bc testify works evil
 
 ---
+<!-- .slide: <%= bg("flickr-freefoto-2552357124.jpg") %> -->
 Have this **mind** among yourselves, <br/>
 which is yours in Christ **Jesus**,
 
@@ -361,6 +363,8 @@ but **emptied** himself, <br/>
 by taking the form of a **servant**
 
 [Philippians 2:5-7 (ESV)](# "ref")
+
+[(img: &copy; 2008 Ian Britton, CC-BY-NC 2.0)](https://www.flickr.com/photos/freefoto/2552357124 "caption")
 
 >>>
 + **grasp**: seize, prize, spoil of war / force
