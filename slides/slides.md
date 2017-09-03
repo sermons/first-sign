@@ -1,4 +1,4 @@
-<!-- .slide: <%= bg("unsplash-x8MZ2MoEKLE-stump-shoot.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-H3giJcTw__w-iceland_sunbeam.jpg") %> -->
 # The First Sign <br/> of His Glory
 ## John 2:1-11
 
@@ -107,7 +107,7 @@ And his disciples **believed** in him.
 [John 2:11 (ESV) (p.6/6)](# "ref")
 
 ---
-<!-- .slide: <%= bg("unsplash-x8MZ2MoEKLE-stump-shoot.jpg") %> id="outline" -->
+<!-- .slide: <%= bg("unsplash-H3giJcTw__w-iceland_sunbeam.jpg") %> id="outline" -->
 ## First Sign of Glory [(John 2a)](# "ref")
 1. What Have **I** To Do With **You**?
 2. My **Hour** Has Not Yet Come
@@ -275,7 +275,11 @@ the **way** in which they should go.
   + master's **command**, or servant's **plea**?
 
 ---
-## outline
+<!-- .slide: <%= bg("unsplash-H3giJcTw__w-iceland_sunbeam.jpg") %> -->
+## First Sign of Glory [(John 2a)](# "ref")
+1. What Have I To Do With You?
+2. **My Hour Has Not Yet Come**
+3. Glory in Showing Mercy
 
 >>>
 + as Mary's **son**, obedient
@@ -375,7 +379,11 @@ by taking the form of a **servant**
 + humble thyself in the sight of the Lord
 
 ---
-## outline
+<!-- .slide: <%= bg("unsplash-H3giJcTw__w-iceland_sunbeam.jpg") %> -->
+## First Sign of Glory [(John 2a)](# "ref")
+1. What Have I To Do With You?
+2. My Hour Has Not Yet Come
+3. **Glory in Showing Mercy**
 
 ---
 <!-- .slide: <%= bg("Gandolfi-Marriage_Cana.jpg") %> -->
@@ -488,7 +496,7 @@ and to walk **humbly** with your God?
 + even when not according to my **plan**?
 
 ---
-<!-- .slide: <%= bg("unsplash-x8MZ2MoEKLE-stump-shoot.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-H3giJcTw__w-iceland_sunbeam.jpg") %> -->
 He has told you, O man, what is **good**; <br/>
 and what does the Lord **require** of you
 
@@ -506,4 +514,4 @@ and to walk **humbly** with your God?
   + even when not my **plan** / timing?
 
 ---
-<!-- .slide: <%= bg("unsplash-x8MZ2MoEKLE-stump-shoot.jpg") %> class="empty" -->
+<!-- .slide: <%= bg("unsplash-H3giJcTw__w-iceland_sunbeam.jpg") %> class="empty" -->
