@@ -335,6 +335,9 @@ and to walk **humbly** with your God?
 
 [Micah 6:8 (ESV)](# "ref")
 
+>>>
++ mercy: connect to **communion**
+
 ---
 <!-- .slide: data-background="white" -->
 # Do I **desire** to show **mercy** to others?
@@ -345,9 +348,6 @@ and to walk **humbly** with your God?
 ---
 <!-- .slide: <%= bg("unsplash-x8MZ2MoEKLE-stump-shoot.jpg") %> -->
 ## closing
-
->>>
-communion
 
 ---
 <!-- .slide: <%= bg("unsplash-x8MZ2MoEKLE-stump-shoot.jpg") %> class="empty" -->
