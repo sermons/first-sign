@@ -408,6 +408,9 @@ like **sheep** without a shepherd.
 + **compassion**: bowels, deeply moved
 + 37 harvest plentiful, workers few
   + **invites** us to participate in compassion
++ e.g., **5min** bball w/SS teens, even when tired
++ e.g., **share** w/those in need, even when short
+  + hurricane Harvey (TX)
 
 ---
 This, the **first** of his signs, <br/>
@@ -445,6 +448,14 @@ and to walk **humbly** with your God?
 ---
 <!-- .slide: <%= bg("unsplash-x8MZ2MoEKLE-stump-shoot.jpg") %> -->
 ## closing
+
+>>>
++ what is the **nature** of my rl w/Christ?
+  + what to you and to me?
++ do I seek to be **known**, grasp **glory**?
+  + or to **submit**, let God exalt?
++ am I **eager** to show **mercy**
+  + even when not my **plan** / timing?
 
 ---
 <!-- .slide: <%= bg("unsplash-x8MZ2MoEKLE-stump-shoot.jpg") %> class="empty" -->
