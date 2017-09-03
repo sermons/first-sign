@@ -230,9 +230,18 @@ Jesus saith unto her, <br/>
   + from son to **Saviour**
 
 ---
+By a pillar of **cloud** you led them in the day,<br/>
+and by a pillar of **fire** in the night
+
+to **light** for them <br/>
+the **way** in which they should go.
+
+[Nehemiah 9:12 (ESV)](# "ref")
+<%= bible('ex13:17-22', '(cf Ex13)') %>
 >>>
-+ pillar of fire as nightlight: take for granted
-  forgot His majesty
++ pillar of fire as **nightlight**:
++ take His **blessings** for granted
++ forgot His **majesty**
 
 ---
 <!-- .slide: data-background="white" -->
