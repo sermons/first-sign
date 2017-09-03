@@ -101,10 +101,10 @@ And his disciples **believed** in him.
 
 ---
 <!-- .slide: <%= bg("unsplash-x8MZ2MoEKLE-stump-shoot.jpg") %> id="outline" -->
-## The First Sign of Glory <br/> [(John 2)](# "ref")
+## First Sign of Glory [(John 2a)](# "ref")
 1. What Have **I** To Do With **You**?
 2. My **Hour** Has Not Yet Come
-3. Revealing His **Glory**
+3. Glory in Showing **Mercy**
 
 >>>
 + changed **relationship** w/Mary
@@ -236,7 +236,7 @@ Jesus saith unto her, <br/>
 
 ---
 <!-- .slide: data-background="white" -->
-# In my prayers, <br/> what is my **relationship** with Jesus?
+# In my prayers, <br/> what is my **relationship** <br/> with Jesus?
 
 >>>
 + **impatient** for God to show His **power**?
@@ -270,7 +270,8 @@ And Jesus said to her, <br/>
 ---
 <!-- .slide: <%= bg("Mei-Christ_Cleansing_the_Temple.jpg") %> -->
 “Take these things away; <br/>
-do not make **my Father's** house a house of **trade**.”
+do not make **my Father's** house <br/>
+a house of **trade**.”
 
 [17](# "ref")
 His disciples **remembered** that it was written, <br/>
@@ -298,7 +299,8 @@ If you do these things, <br/>
 **show yourself** to the world."
 
 [6](# "ref")
-Jesus said to them, “**My time** has not yet come, <br/>
+Jesus said to them, <br/>
+“**My time** has not yet come, <br/>
 but **your** time is always here."
 
 [John 7:4,6 (ESV)](# "ref")
@@ -334,7 +336,7 @@ by taking the form of a **servant**
 ---
 <!-- .slide: data-background="white" -->
 # Do I seek to be **known** by men,
-# or to **submit** to God?
+# or to **submit** <br/> to God?
 
 >>>
 + God's **timetable**
@@ -392,6 +394,8 @@ Will he **delay** long over them?
 [Luke 18:6-7 (ESV) (p.2/2)](# "ref")
 
 >>>
++ v8 will bring **justice**, and **quickly**:
+  + but will he find **faith** on earth?
 + God **desires** to have mercy upon us
 + He does not **leave** us to **suffer** in sin
   + or **wander** searching for His will
@@ -436,7 +440,11 @@ and to walk **humbly** with your God?
 [Micah 6:8 (ESV)](# "ref")
 
 >>>
-+ mercy: connect to **communion**
++ God has been **merciful** to us:
++ **communion**: Christ's **obedience** to Father
+  + **sacrifice** for our sins
+  + **mercy** in forgiving us
++ now our turn to have **mercy** on others:
 
 ---
 <!-- .slide: data-background="white" -->
@@ -447,7 +455,13 @@ and to walk **humbly** with your God?
 
 ---
 <!-- .slide: <%= bg("unsplash-x8MZ2MoEKLE-stump-shoot.jpg") %> -->
-## closing
+He has told you, O man, what is **good**; <br/>
+and what does the Lord **require** of you
+
+but to do **justice**, and to love **kindness**, <br/>
+and to walk **humbly** with your God?
+
+[Micah 6:8 (ESV)](# "ref")
 
 >>>
 + what is the **nature** of my rl w/Christ?
