@@ -2,6 +2,9 @@
 # The First Sign <br/> of His Glory
 ## John 2:1-11
 
+>>>
+alternate title: The Path to Glory
+
 ---
 <!-- .slide: data-background="white" -->
 # What is the <br/> **path** to glory?
