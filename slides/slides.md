@@ -336,9 +336,9 @@ His disciples **remembered** that it was written, <br/>
 [John 2:16-17 (ESV)](# "ref")
 
 >>>
-+ (1) in **Jerusalem**, not **Galilee** / Cana
++ (1) **location**: Jeru, not Galilee
   + prophet w/o **honour**
-+ (2) not act of **miraculous** power:
++ (2) **method**: not **miracle** power:
   + not seeking **fame**, gain glory
   + personal **encounters**
     + Nicodemus, Sychar woman
@@ -368,7 +368,7 @@ but **your** time is always here."
 + e.g., pastor **boast** SS kids Ivy League
   + what is defn of **success**?
 + v5 brothers didn't **believe**
-+ **my time** vs your time:
++ **my** time vs **your** time:
   + what to you and me?
   + 7 world **hates**: testify works evil
 
@@ -403,8 +403,8 @@ by taking the form of a **servant**
 
 >>>
 + God's **timetable**
-+ wait upon the Lord: trust, humility
-+ humble thyself in the sight of the Lord
++ **wait** upon the Lord: trust, humility
++ **humble** thyself in sight of Lord
 
 ---
 <!-- .slide: <%= bg("unsplash-H3giJcTw__w-iceland_sunbeam.jpg") %> -->
@@ -418,7 +418,7 @@ by taking the form of a **servant**
 + Jesus' **path** to glory:
   + not by **seizing** it for self
   + **submitting** to God's plan
-+ even in **midst** of following God's plan:
++ even in **midst** of follow God's plan:
   + desire to show **mercy**
   + bc of beloved's **plea**
 
@@ -435,10 +435,10 @@ His mother said to the **servants**,<br/>
 + clear that Jesus will take **action**
 + despite not Jesus' **method** for glory
   + nor His **timing** or **location**
-+ miracle done in **private**
-  + even **master** of ceremonies
-+ desire to show **mercy**
-  + **character** of God:
++ miracle done in **private**:
+  + even **master** of ceremonies: v9
++ not **reluc**: desire to show **mercy**
+  + **char** of God, **heart** of Christ
   + Lk18 unrighteous **judge**:
 
 ______
@@ -492,8 +492,8 @@ like **sheep** without a shepherd.
 
 >>>
 + **compassion**: bowels, deeply moved
-+ 37 harvest plentiful, workers few
-  + **invites** us to participate in compassion
++ 37 harvest plentiful, **workers** few
+  + **invites** us particip in compassion
 + e.g., **5min** bball w/SS teens
   + even when **tired**
 + e.g., **share** w/those in need
@@ -512,8 +512,8 @@ And his disciples **believed** in him.
 
 >>>
 + **2nd** sign in Galilee after Passover:
-  + Jn4:54 Cana / Capernaum
-+ **glory**: not just **power** to make wine
+  + end of Jn4: **Cana** / Capernaum
++ **glory**: not just **power** for wine
   + **mercy** to His daughter's **plea**
 
 ---
