@@ -168,7 +168,6 @@ in her heart.
 + 12yrs old at **temple**: "my Father's house"
 + Mary **treasured** up in heart
   + anticipated Jesus' **glory** since birth:
-+ TODO: possibly trim this
 
 ---
 Behold, you will **conceive** in your womb<br/>
@@ -278,14 +277,16 @@ His disciples **remembered** that it was written, <br/>
 [John 2:16-17 (ESV)](# "ref")
 
 >>>
-+ not **miraculous** power, but
-  + **authority** over Father's house
-+ in **Jerusalem**, not **Galilee** / Cana
++ (1) in **Jerusalem**, not **Galilee** / Cana
   + prophet w/o **honour**
-+ more: his **hour** was not to seek **fame**
++ (2) not act of **miraculous** power:
+  + not seeking **fame**, gain glory
   + personal **encounters** (Nicodemus, Sychar woman)
   + forbade healed from **telling** others
-+ own **family** didn't understand:
+  + but **authority** over Father's house
++ (3) demonstrate true **family**:
+  + **my Father's** house (quoting 12-yo)
+  + natural family didn't **understand**:
 
 ---
 [4](# "ref")
@@ -301,9 +302,9 @@ but **your** time is always here."
 [John 7:4,6 (ESV)](# "ref")
 
 >>>
-+ v5 brothers didn't **believe**
 + wanted Jesus to **succeed**:
-  + flourish, show **strength**, fame
+  + flourish, show **strength**, seize glory
++ v5 brothers didn't **believe**
 + **my time** vs your time: what to you and me?
   + v7 world **hates** bc testify works evil
 
