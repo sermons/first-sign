@@ -309,17 +309,6 @@ but **your** time is always here."
   + v7 world **hates** bc testify works evil
 
 ---
-<!-- .slide: <%= bg("unsplash-OjE4RtaibFc-eagle.jpg") %> -->
-They who **wait** for the Lord <br/>
-shall **renew** their strength; <br/>
-they shall mount up with **wings** like eagles
-
-[Isaiah 40:31 (ESV)](# "ref")
-
->>>
-+ wait: hope, eager expectation
-
----
 <!-- .slide: data-background="white" -->
 # How do I **respond** when I have to **wait** for God?
 
