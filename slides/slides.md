@@ -374,6 +374,8 @@ but **your** time is always here."
 + **my** time vs **your** time:
   + what to you and me?
   + 7 world **hates**: testify works evil
++ appl: parents: release kids into **God's** idea of success
+  + **suffering** for sake of name of Jesus
 
 ---
 <!-- .slide: <%= bg("flickr-freefoto-2552357124.jpg") %> -->
