@@ -3,6 +3,11 @@
 ## John 2:1-11
 
 >>>
++ CECBC prayer: Grace (YA) in Dom. Rep.
+  + 2wk w/Medical Ministry Intl dental
+  + Ps. Calvin @First CRC: work vs study
+
+______
 alternate title: The Path to Glory
 
 ---
