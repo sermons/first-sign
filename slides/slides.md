@@ -1,4 +1,4 @@
-<!-- .slide: <%= bg("unsplash-H3giJcTw__w-iceland_sunbeam.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-H3giJcTw__w-iceland_sunbeam.jpg") %> id="title" -->
 # The First Sign <br/> of His Glory
 ## John 2:1-11
 
@@ -25,7 +25,7 @@ alternate title: The Path to Glory
 
 ---
 <!-- .slide: <%= bg("Bida-Nicodemus_Jesus.jpg") %> -->
-## The Covenant: Creation to Christ
+## Covenant: Creation to Christ
 + Law of Moses [(Ex 20, Dt 5)](# "ref")
 + Unless the Lord Builds [(Ps 127)](# "ref")
 + Prepare the Way [(Is 57)](# "ref")
@@ -122,7 +122,7 @@ And his disciples **believed** in him.
 [John 2:11 (ESV) (p.6/6)](# "ref")
 
 ---
-<!-- .slide: <%= bg("unsplash-H3giJcTw__w-iceland_sunbeam.jpg") %> id="outline" -->
+<!-- .slide: <%= bg("unsplash-H3giJcTw__w-iceland_sunbeam.jpg") %> id="outline" class="outline" -->
 ## First Sign of Glory [(John 2a)](# "ref")
 1. What Have **I** To Do With **You**?
 2. My **Hour** Has Not Yet Come
@@ -301,7 +301,7 @@ the **way** in which they should go.
 + what to me and to you?
 
 ---
-<!-- .slide: <%= bg("unsplash-H3giJcTw__w-iceland_sunbeam.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-H3giJcTw__w-iceland_sunbeam.jpg") %> class="outline" -->
 ## First Sign of Glory [(John 2a)](# "ref")
 1. What Have I To Do With You?
 2. **My Hour Has Not Yet Come**
@@ -414,7 +414,7 @@ by taking the form of a **servant**
 + **humble** thyself in sight of Lord
 
 ---
-<!-- .slide: <%= bg("unsplash-H3giJcTw__w-iceland_sunbeam.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-H3giJcTw__w-iceland_sunbeam.jpg") %> class="outline" -->
 ## First Sign of Glory [(John 2a)](# "ref")
 1. What Have I To Do With You?
 2. My Hour Has Not Yet Come
