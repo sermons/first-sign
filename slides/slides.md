@@ -404,6 +404,13 @@ by taking the form of a **servant**
 + v9 then **God** exalted him
 
 ---
+<!-- .slide: <%= bg("unsplash-Ca6lJ_pUtFc-stanley_park.jpg") %> -->
+**Humble** yourselves before the Lord, <br/>
+and he will **lift** you up.
+
+[James 4:10 (NIV)](# "ref")
+
+---
 <!-- .slide: data-background="white" -->
 # Do I seek to be **known** by men,
 # or to **submit** <br/> to God?
