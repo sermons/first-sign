@@ -194,13 +194,14 @@ the **mother** of Jesus said to him, <br/>
 
 ---
 <!-- .slide: <%= bg("Hofmann-Jesus_in_Temple.jpg") %> -->
-Then he went down to **Nazareth** with them <br/>
-and was **obedient** to them.
+"Didn’t you know I had to be <br>
+in **my Father’s house**?”
 
+[51](# "ref")
 But his mother **treasured** all these things <br/>
 in her heart.
 
-[Luke 2:51 (NIV)](# "ref")
+[Luke 2:49,51 (NIV)](# "ref")
 
 [(img: Hofmann, "Der zwölfjährige Jesus im Tempel", 1884)](# "caption")
 
@@ -209,6 +210,7 @@ in her heart.
   + returned **home**, **obedient**
 + Mary **treasured** up in heart
   + Jesus: "my **Father's** house"
+  + who His **real** Father is
 + mother anticipated **glory** of son
   + since **before** birth:
 
@@ -227,6 +229,7 @@ the Son of the **Most High**.
 [(img: Murillo, "The Annunciation", 1660)](https://commons.wikimedia.org/wiki/File:Bartolom%C3%A9_Esteban_Perez_Murillo_023.jpg "caption")
 
 >>>
++ real Father: the **Most High**
 + what would His **greatness** look like?
   + mother's **hope** for her firstborn
   + perhaps **impatient** to see His fullest **potential**
