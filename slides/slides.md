@@ -11,12 +11,22 @@ ______
 alternate title: The Path to Glory
 
 ---
+<!-- .slide: <%= bg("Chloe_Kim_2018_Olympics.jpg") %> class="top empty" -->
+
+[Chloe Kim, 2018 US Olympic gold medalist, snowboarding <br> State Dept / D. Woolverton / Sean M. Haffey / Getty Images](# "caption")
+
+>>>
++ 2018 Winter Olympics in S.Korea
+  + Chloe Kim: 17yo Korean-Am
+  + youngest woman gold snowboard
+  + father's support
++ read about **paths** to glory
+
+---
 <!-- .slide: data-background="white" -->
 # What is the <br/> **path** to glory?
 
 >>>
-+ 2018 Winter Olympics in S.Korea
-  + Chloe Kim: 17yo Korean-Am, youngest woman gold snowboard
 + achieve **success**
   + **make** sth of lives
   + leave lasting **legacy**
