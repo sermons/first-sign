@@ -124,9 +124,9 @@ And his disciples **believed** in him.
 ---
 <!-- .slide: <%= bg("unsplash-H3giJcTw__w-iceland_sunbeam.jpg") %> id="outline" class="outline" -->
 ## First Sign of Glory [(John 2a)](# "ref")
-1. What Have **I** To Do With **You**?
-2. My **Hour** Has Not Yet Come
-3. Glory in Showing **Mercy**
+1. Glory in the **Son of God** [(v4a)](# "ref")
+2. Glory in **Obedience** to the Father [(v4b)](# "ref")
+3. Glory in Showing **Mercy** [(v11)](# "ref")
 
 >>>
 + changed **relationship** w/Mary
@@ -252,7 +252,7 @@ Jesus saith unto her, <br/>
 + **woman**: not disrespectful
   + cf to Mary on **cross** (Jn19:26)
   + but not **mother**: changed **rl**
-+ KJV: **I** / **thee**:
++ KJV: **I** / **thee**: Τί  ἐμοὶ  καὶ  σοί
   + NIV: why do you **involve** me?
   + ESV: what does **this** have w/me?
 + Hebrew **idiom**: what to me and to you?
@@ -303,9 +303,9 @@ the **way** in which they should go.
 ---
 <!-- .slide: <%= bg("unsplash-H3giJcTw__w-iceland_sunbeam.jpg") %> class="outline" -->
 ## First Sign of Glory [(John 2a)](# "ref")
-1. What Have I To Do With You?
-2. **My Hour Has Not Yet Come**
-3. Glory in Showing Mercy
+1. Glory in the Son of God [(v4a)](# "ref")
+2. **Glory in Obedience to the Father** [(v4b)](# "ref")
+3. Glory in Showing Mercy [(v11)](# "ref")
 
 >>>
 + as Mary's **son**, obedient
@@ -416,9 +416,9 @@ by taking the form of a **servant**
 ---
 <!-- .slide: <%= bg("unsplash-H3giJcTw__w-iceland_sunbeam.jpg") %> class="outline" -->
 ## First Sign of Glory [(John 2a)](# "ref")
-1. What Have I To Do With You?
-2. My Hour Has Not Yet Come
-3. **Glory in Showing Mercy**
+1. Glory in the Son of God [(v4a)](# "ref")
+2. Glory in Obedience to the Father [(v4b)](# "ref")
+3. **Glory in Showing Mercy** [(v11)](# "ref")
 
 >>>
 + check self: how I **view** / address Him?
