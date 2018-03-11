@@ -25,21 +25,18 @@ alternate title: The Path to Glory
 
 ---
 <!-- .slide: <%= bg("Bida-Nicodemus_Jesus.jpg") %> -->
-## John: Encountering <br/> the **Heart** of Christ
-+ [(ch1)](# "ref") **John** the Baptist, early **disciples**
-+ [(ch2)](# "ref") with **Mary** his mother
-+ [(ch3)](# "ref") with **Nicodemus** the leader
-+ [(ch4)](# "ref") with the outcast woman at **Sychar**
+## The Covenant: Creation to Christ
++ Law of Moses [(Ex 20, Dt 5)](# "ref")
++ Unless the Lord Builds [(Ps 127)](# "ref")
++ Prepare the Way [(Is 57)](# "ref")
++ True Worship [(Is 58)](# "ref")
++ **Path to Glory** [(Lk 2)](# "ref")
++ Coronation [(Mk 15)](# "ref")
 
 [###](#/outline "secret")
 
 [(img: Bida, "Nicodemus and Jesus", 1874)](https://commons.wikimedia.org/wiki/File:Nicodemus_Jesus.jpg "caption")
 
->>>
-+ gospel of John: introduces Jesus
-  + via **personal** encounters
-+ today: intimate portrait
-  + of **mother** + **son**
 
 ---
 [1](# "ref")
