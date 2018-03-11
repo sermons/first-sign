@@ -39,7 +39,7 @@ alternate title: The Path to Glory
 <!-- .slide: <%= bg("Bida-Nicodemus_Jesus.jpg") %> class="outline" -->
 ## Covenant: Creation to Christ
 + The Gift of the *Law* [(Ex 20, Dt 5)](# "ref")
-+ Unless the Lord Builds [(Ps 127)](# "ref")
++ Unless the Lord *Builds* [(Ps 127)](# "ref")
 + Prepare the *Way* [(Is 57)](# "ref")
 + *Worship* in Word and Deed [(Is 58)](# "ref")
 + **The Path to Glory** [(Lk 2)](# "ref")
