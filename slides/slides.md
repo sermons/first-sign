@@ -24,7 +24,7 @@ alternate title: The Path to Glory
 + what path did **Jesus** follow on earth?
 
 ---
-<!-- .slide: <%= bg("Bida-Nicodemus_Jesus.jpg") %> -->
+<!-- .slide: <%= bg("Bida-Nicodemus_Jesus.jpg") %> class="outline" -->
 ## Covenant: Creation to Christ
 + Law of Moses [(Ex 20, Dt 5)](# "ref")
 + Unless the Lord Builds [(Ps 127)](# "ref")
