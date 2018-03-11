@@ -15,6 +15,8 @@ alternate title: The Path to Glory
 # What is the <br/> **path** to glory?
 
 >>>
++ 2018 Winter Olympics in S.Korea
+  + Chloe Kim: 17yo Korean-Am, youngest woman gold snowboard
 + achieve **success**
   + **make** sth of lives
   + leave lasting **legacy**
