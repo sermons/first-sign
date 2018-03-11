@@ -288,7 +288,7 @@ the **way** in which they should go.
 
 ---
 <!-- .slide: data-background="white" -->
-# In my prayers, <br/> what is my **relationship** <br/> with Jesus?
+# Do I address Jesus as my **servant** or my **Saviour**?
 
 >>>
 + **impatient** for God to show His **power**?
