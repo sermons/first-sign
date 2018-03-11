@@ -11,7 +11,7 @@ ______
 alternate title: The Path to Glory
 
 ---
-<!-- .slide: <%= bg("Chloe_Kim_2018_Olympics.jpg") %> class="top empty" -->
+<!-- .slide: data-background-image="static/bg/Chloe_Kim_2018_Olympics.jpg" class="top empty" -->
 
 [Chloe Kim, 2018 US Olympic gold medalist, snowboarding <br> State Dept / D. Woolverton / Sean M. Haffey / Getty Images](# "caption")
 
