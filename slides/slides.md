@@ -26,12 +26,12 @@ alternate title: The Path to Glory
 ---
 <!-- .slide: <%= bg("Bida-Nicodemus_Jesus.jpg") %> class="outline" -->
 ## Covenant: Creation to Christ
-+ Law of Moses [(Ex 20, Dt 5)](# "ref")
++ The Gift of the *Law* [(Ex 20, Dt 5)](# "ref")
 + Unless the Lord Builds [(Ps 127)](# "ref")
-+ Prepare the Way [(Is 57)](# "ref")
-+ True Worship [(Is 58)](# "ref")
-+ **Path to Glory** [(Lk 2)](# "ref")
-+ Coronation [(Mk 15)](# "ref")
++ Prepare the *Way* [(Is 57)](# "ref")
++ *Worship* in Word and Deed [(Is 58)](# "ref")
++ **The Path to Glory** [(Lk 2)](# "ref")
++ Christ's *Coronation* [(Mk 15)](# "ref")
 
 [###](#/outline "secret")
 
