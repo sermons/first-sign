@@ -1,7 +1,7 @@
 # The First Sign of His Glory
 ## John 2:1-11
 
-[![Build status](https://travis-ci.org/sermons/first-sign.svg)](https://travis-ci.org/sermons/first-sign)
+[![Build status](https://api.travis-ci.org/sermons/first-sign.svg)](https://travis-ci.org/github/sermons/first-sign)
 [![Node deps](https://david-dm.org/sermons/first-sign.svg)](https://david-dm.org/sermons/first-sign)
 [![Node devDeps](https://david-dm.org/sermons/first-sign/dev-status.svg)](https://david-dm.org/sermons/first-sign?type=dev)
 
